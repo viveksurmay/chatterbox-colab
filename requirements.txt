@@ -1,0 +1,11 @@
+gradio
+torch
+torchaudio
+librosa
+transformers
+diffusers
+safetensors
+numpy
+s3tokenizer
+conformer
+huggingface_hub
